@@ -7,10 +7,8 @@ function App() {
     <div className="App">
      <div className="App-header">
        <h2>Cryptocurrency Ticker</h2>
-       <div>
-         <Tickers />
-       </div>
      </div>
+     <Tickers />
     </div>
   );
 }
